@@ -1,0 +1,20 @@
+#ifndef NEXTANDPREVIOUSBUTTONS_H
+#define NEXTANDPREVIOUSBUTTONS_H
+
+#include <QPushButton>
+#include <QWidget>
+
+class NextAndPreviousButtons : public QPushButton
+{
+    Q_OBJECT
+public:
+    explicit NextAndPreviousButtons(QWidget *parent = 0);
+
+signals:
+    clicked(bool checked = true);
+
+public slots:
+
+};
+
+#endif // NEXTANDPREVIOUSBUTTONS_H

@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="left_arrow">images/left-arrow16.png</file>
+        <file alias="lit">images/lit.png</file>
+        <file alias="warning">images/messagebox_warning.png</file>
+        <file alias="open_door">images/open_door.png</file>
+        <file alias="options">images/options.png</file>
+        <file alias="print">images/print.png</file>
+        <file alias="printfast">images/printfast.png</file>
+        <file alias="printpreview">images/printpreview.png</file>
+        <file alias="mainIcon">images/repertorium.png</file>
+        <file alias="right_arrow">images/right-arrow16.png</file>
+        <file alias="saveIcon">images/save.png</file>
+        <file alias="zoomin">images/zoom_in.png</file>
+        <file alias="zoomout">images/zoom_out.png</file>
+        <file alias="cal">images/cal.png</file>
+        <file alias="logo">images/logo.png</file>
+        <file alias="zoom100">images/zoom_100.png</file>
+        <file alias="arrow">images/arrow.png</file>
+        <file alias="petal1">images/petal1.png</file>
+        <file alias="petal2">images/petal2.png</file>
+        <file alias="petal3">images/petal3.png</file>
+        <file alias="titre">images/titre.png</file>
+        <file alias="printplus">images/printerplus.png</file>
+        <file alias="filecfg">images/filecfg.png</file>
+        <file alias="remove">images/remove.png</file>
+        <file alias="info">images/infoicon.png</file>
+    </qresource>
+</RCC>

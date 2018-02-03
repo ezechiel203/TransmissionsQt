@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE Transmissions>
+<Transmissions>
+    <secteur time="1517440456497" type="bleu">
+        <chambre id="8">
+            <nom>ME LIPPERT</nom>
+            <dateEntree>22/01/14</dateEntree>
+            <motif>Vomissements en jet, PNP d'inh? , E infectieux, IRAHyperthermie (STOP hémoc) Anurie</motif>
+            <atcd>meningiome olfactif/sphero-temporal, hémiplégie droite, aphasie</atcd>
+            <exams>Pst talon (Protocole VAC à partir du 27/8 + MEOPA), pst gastrostomie et siège</exams>
+            <issv>true</issv>
+            <svtype>1</svtype>
+            <svmain>SV à demeure a demeure</svmain>
+            <svsub>O2 15L Aérosols ( tentative de baisse impossible)</svsub>
+            <sortiemain>mari ok 24/24</sortiemain>
+            <sortiesub/>
+            <misc>LIT STRICT + barrières
+
+cst/4h
+
+soins médicaux dans l'unité
+nimbus</misc>
+            <reaMain/>
+            <reasub>ATB, SAP Oxynorm 10 mg/24h. patch Durogésic posé le 26/8,vogalene+genta faite ce jour</reasub>
+            <peros>A JEUN    -   gastrostomie              SNG en aspi douce     SdB</peros>
+            <reaset>true</reaset>
+            <o2check>true</o2check>
+            <oxydeb>15</oxydeb>
+            <aerosols>true</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="9P">
+            <nom>MR DELCOUR</nom>
+            <dateEntree>04/02/14</dateEntree>
+            <motif>zefzmefjzùreifbhzùoefbùorezafgbùozafbùaoufvgbùourzfbzaoefmbeozaùfbozaùefbozaefboazefbozaùmebzmaùofbamùzeofbozm</motif>
+            <atcd>insuff cardiaque, parkinson, HTA, hyperthyroïdie, PNP, hernie hiatale, démence</atcd>
+            <exams>Pst escarre sacré 25/08. eu scanner tho 26/08</exams>
+            <issv>false</issv>
+            <svtype>0</svtype>
+            <svmain/>
+            <svsub/>
+            <sortiemain/>
+            <sortiesub/>
+            <misc/>
+            <reaMain/>
+            <reasub/>
+            <peros>Régime normal</peros>
+            <reaset>false</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>true</allergiesCheck>
+            <allergies>dzkeduh</allergies>
+        </chambre>
+        <chambre id="9F">
+            <nom>MR MEURIS</nom>
+            <dateEntree/>
+            <motif>Chute, rabdo, suspicion d'angiocholite</motif>
+            <atcd>démence à corps de lewy,myasthénie autoimmune, cécité</atcd>
+            <exams>Pst joue droite. exigent</exams>
+            <issv>true</issv>
+            <svtype>6</svtype>
+            <svmain>SV arrêt le arrêt</svmain>
+            <svsub>scann abdo normal, écho abdo normale</svsub>
+            <sortiemain>sortie le 27</sortiemain>
+            <sortiesub>malatray faite</sortiesub>
+            <misc>Fauteuil/Tablette 
+régime normal</misc>
+            <reaMain/>
+            <reasub>atb</reasub>
+            <peros>CP HPx2 douleur genoux:paracétamol</peros>
+            <reaset>true</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="10">
+            <nom>ME</nom>
+            <dateEntree/>
+            <motif>PeC HT° sur pose JJ</motif>
+            <atcd>AVC (deficit gche), demence, sonde JJ sur stenose</atcd>
+            <exams>ECBU fait</exams>
+            <issv>false</issv>
+            <svtype>0</svtype>
+            <svmain/>
+            <svsub>Mycose anale+vulvaire, SdB, escarre entre jambe (plaque)</svsub>
+            <sortiemain>Sortie</sortiemain>
+            <sortiesub/>
+            <misc>lit
+ISOLEMENT CONTACT URINAIRE</misc>
+            <reaMain>SC</reaMain>
+            <reasub/>
+            <peros>Haché 2, eau gel, yahourt à la vanille de préf.</peros>
+            <reaset>true</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="11P">
+            <nom>MME DEPROST</nom>
+            <dateEntree/>
+            <motif>syndrome de glissement, aeg</motif>
+            <atcd>syndrome dépressif( contexte familial), démence débutante,
+exo chronique</atcd>
+            <exams>ECBU ft - diarrhées +++</exams>
+            <issv>false</issv>
+            <svtype>0</svtype>
+            <svmain/>
+            <svsub>écho abdo le 27 à 14h à jeun</svsub>
+            <sortiemain>Sortie</sortiemain>
+            <sortiesub>A STIMULER +++ POUR FAUTEUIL ET TOILETTE</sortiesub>
+            <misc>fauteuil
+régime normal, eau normale
+
+incontinente occasionnelle</misc>
+            <reaMain/>
+            <reasub>triatec</reasub>
+            <peros>écraser médoc - refus ttt réguliers</peros>
+            <reaset>false</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="11F">
+            <nom>MME QUERET</nom>
+            <dateEntree/>
+            <motif>PNP, hypoxie, surdfosage AVK, masse sous mammaires gauche</motif>
+            <atcd>néo sein gauche, EP, avc , amputation doigt main gauche</atcd>
+            <exams>Pst malléole mepilexà refaire mercredi. - ECG ft, GDS ft, BS ft,</exams>
+            <issv>true</issv>
+            <svtype>0</svtype>
+            <svmain>SV </svmain>
+            <svsub>O2 10L aux masque haute []- Aspi SB - KR - Hallu visuelles+auditives</svsub>
+            <sortiemain>Sortie</sortiemain>
+            <sortiesub>Encombrement +++ - Desaturation +++</sortiesub>
+            <misc>cst /3h 2h 5h 8h 11h......
+fauteuil
+pst malléole et siège
+SDB coca
+ATTENTIONS TALONS</misc>
+            <reaMain/>
+            <reasub>pnp inhal vu idg ss aug iv debute a 0H</reasub>
+            <peros>Régime mixe, eau gazeuses (ATTENTION FAUSSES ROUTES) + écraser les traitements</peros>
+            <reaset>true</reaset>
+            <o2check>true</o2check>
+            <oxydeb>10</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="12">
+            <nom>MR KEDAD</nom>
+            <dateEntree/>
+            <motif>MADD +tble du comportement</motif>
+            <atcd>HTA,ACFA, BPCO, Hep B aigue guerri, anxieux depressif et demence, DNID</atcd>
+            <exams>kiné mob</exams>
+            <issv>false</issv>
+            <svtype>0</svtype>
+            <svmain/>
+            <svsub/>
+            <sortiemain>Sortie</sortiemain>
+            <sortiesub/>
+            <misc>fauteuil 
+regime normal
+Dextro x3/j</misc>
+            <reaMain/>
+            <reasub/>
+            <peros>attention à la prise de medicaments</peros>
+            <reaset>false</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="14">
+            <nom>MME HENEMAN</nom>
+            <dateEntree/>
+            <motif>sd confusionnel+ tble cognitif et hallucination notamment visuelles</motif>
+            <atcd>HTA,ACFA,Ins cardiaque, IRC, DMLA</atcd>
+            <exams>ECBU FT</exams>
+            <issv>false</issv>
+            <svtype>0</svtype>
+            <svmain/>
+            <svsub>att bilan neuropsy</svsub>
+            <sortiemain>Sortie</sortiemain>
+            <sortiesub/>
+            <misc>fauteuil
+
+regime normal</misc>
+            <reaMain/>
+            <reasub/>
+            <peros>risperdal en syst</peros>
+            <reaset>false</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="16">
+            <nom>MR CHAOUCHE</nom>
+            <dateEntree/>
+            <motif>Aeg, encombrement bronchique</motif>
+            <atcd>bpco, BK, PNP ++ à plrs germes</atcd>
+            <exams>ECBC ft</exams>
+            <issv>false</issv>
+            <svtype>0</svtype>
+            <svmain>O2 2L </svmain>
+            <svsub/>
+            <sortiemain>Sortie</sortiemain>
+            <sortiesub>mardi 27/08 à 10h30 malatray ok</sortiesub>
+            <misc>ISOLEMENT RESPI
+Fauteuil</misc>
+            <reaMain/>
+            <reasub/>
+            <peros>Haché 2 eau gaz à la demande du patient, CP HP x2</peros>
+            <reaset>false</reaset>
+            <o2check>true</o2check>
+            <oxydeb>2</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="18">
+            <nom>MR DUTHOIT (NTBR)</nom>
+            <dateEntree/>
+            <motif>AEG, perte autonomie, deshyd,anémie</motif>
+            <atcd>Irénale C, neo prostate,</atcd>
+            <exams>néo avec foyer d'origine inconnue envahissement abdo+++ ( pas au courant), hépatomégalie</exams>
+            <issv>false</issv>
+            <svtype>0</svtype>
+            <svmain>O2 2L </svmain>
+            <svsub>eu ponction ascite ce jr. --> coule +++</svsub>
+            <sortiemain>SNG SI Vomissemens</sortiemain>
+            <sortiesub>oedeme induré cuisses et abdo oedème verge</sortiesub>
+            <misc>surv selles
+1 biere sans alcool /jr 
+
+Nymbus</misc>
+            <reaMain/>
+            <reasub>Vogalène(à 12h), ATB  si nec spsfon et perfalgan ( mis en syst dim effet +)</reasub>
+            <peros>nuit:très anxieux,dort peu</peros>
+            <reaset>true</reaset>
+            <o2check>true</o2check>
+            <oxydeb>2</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="20">
+            <nom>ME DALY</nom>
+            <dateEntree/>
+            <motif>Chute, rhabdo, hyperparathyroidie, Hb : 8</motif>
+            <atcd>Diab, dyslip, AVC, dysglobulinémie monoclonale, HTA, diverticulose colique</atcd>
+            <exams>Plvt urinaire faits - 3 hémocult' en att'</exams>
+            <issv>false</issv>
+            <svtype>0</svtype>
+            <svmain/>
+            <svsub>Att' echo thyroidienne</svsub>
+            <sortiemain>Sortie</sortiemain>
+            <sortiesub/>
+            <misc>Fauteuil</misc>
+            <reaMain/>
+            <reasub/>
+            <peros>Régime SSAR</peros>
+            <reaset>false</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+    </secteur>
+    <secteur time="1517440456497" type="rouge">
+        <chambre id="1P">
+            <nom/>
+            <dateEntree/>
+            <motif/>
+            <atcd/>
+            <exams>Psmt abcdef ghijklm nopqrstuvw xyzab cdefgh ijklmnop qrstubvhz djfolgkt skuefêrtme dc,pzreojf duzhgeiudgz oerfhperi ziejfpzofi grtijhgprtih^^pdc erhgrutghs efejrhfgeorfgffffffffffffff</exams>
+            <issv>false</issv>
+            <svtype>0</svtype>
+            <svmain/>
+            <svsub/>
+            <sortiemain>Sortie</sortiemain>
+            <sortiesub/>
+            <misc>r</misc>
+            <reaMain/>
+            <reasub/>
+            <peros/>
+            <reaset>false</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="1F">
+            <nom/>
+            <dateEntree/>
+            <motif/>
+            <atcd/>
+            <exams>Psmt </exams>
+            <issv>false</issv>
+            <svtype>0</svtype>
+            <svmain/>
+            <svsub/>
+            <sortiemain>Sortie</sortiemain>
+            <sortiesub/>
+            <misc/>
+            <reaMain/>
+            <reasub/>
+            <peros/>
+            <reaset>false</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="2">
+            <nom>ME VANRULLEN</nom>
+            <dateEntree>11/02/14</dateEntree>
+            <motif>Compression médullaire avec Sd queue de cheval sur lyse vertébrale, liée à une tumeur osseuse secondaire</motif>
+            <atcd>HTA, Insuf veineuse, arthrose, chutes à repet', PNP, osteoporose</atcd>
+            <exams>Psmt Rxttt 19-20-21-22-23-26-27-28-29-30/8 à Mouscron à 9h50 (Carte table de nuit) --> Ambu à commander chq jr pr le lendemain</exams>
+            <issv>true</issv>
+            <svtype>6</svtype>
+            <svmain>SV arrêt le 12/17/45</svmain>
+            <svsub>Mammo 03/9 à 14h30</svsub>
+            <sortiemain>Sortie</sortiemain>
+            <sortiesub/>
+            <misc>Lit strict
+
+Nimbus</misc>
+            <reaMain>SC</reaMain>
+            <reasub>SAP morphine 20mg/24h - sap scopo</reasub>
+            <peros>Régime H2, cplmts HPx2/j - BdB (bicar-fungy) - Dfgan, Solupred, Plitican: pas le we</peros>
+            <reaset>true</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>true</allergiesCheck>
+            <allergies>sulfamides</allergies>
+        </chambre>
+        <chambre id="3P">
+            <nom>ME NOLF</nom>
+            <dateEntree>01/02/14</dateEntree>
+            <motif>Chute + Rhabdo</motif>
+            <atcd>HTA, cardiopathie isch, PNP, osteoporose, hystérectomie, sténose pyélo-ureterale</atcd>
+            <exams>Psmt test hypoTA post prandial le 27/8 en même temps que l'holter tensionnel (indiquer l'heure du repas)</exams>
+            <issv>true</issv>
+            <svtype>2</svtype>
+            <svmain>SV sur globe</svmain>
+            <svsub>holter ECG en cours, à retirer le 27/8 à 10h40</svsub>
+            <sortiemain>Sortie</sortiemain>
+            <sortiesub>ETT 27/8 à 15h</sortiesub>
+            <misc>Fauteuil = BdC</misc>
+            <reaMain/>
+            <reasub/>
+            <peros>hydratation 2L/jour - régime normal</peros>
+            <reaset>true</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>true</allergiesCheck>
+            <allergies>mlokjyhfg</allergies>
+        </chambre>
+        <chambre id="3F">
+            <nom>ME PHILIPPE</nom>
+            <dateEntree>02/01/14</dateEntree>
+            <motif>desaturation sur insuffisance respi restrictive sur scoliose</motif>
+            <atcd>HTA, insuff cardiaque, tassement vertebral D12, depression, trouble ventilatoire restrictif sur cyphoscoliose</atcd>
+            <exams/>
+            <issv>true</issv>
+            <svtype>2</svtype>
+            <svmain>SV sur globe</svmain>
+            <svsub>O2 1L </svsub>
+            <sortiemain/>
+            <sortiesub/>
+            <misc>FAUTEUIL
+demis assise++</misc>
+            <reaMain/>
+            <reasub/>
+            <peros>attention fausses routes, eau gazeuse</peros>
+            <reaset>false</reaset>
+            <o2check>true</o2check>
+            <oxydeb>1</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="4">
+            <nom>ME  SERLIPPENS</nom>
+            <dateEntree>10/01/14</dateEntree>
+            <motif>syndrome de glissement</motif>
+            <atcd>insuf coro, aomi, HTA, insuff respi, PM</atcd>
+            <exams>Pst siège, Eosine plis inguinaux et sous les seins, sDb</exams>
+            <issv>true</issv>
+            <svtype>2</svtype>
+            <svmain>SV sur globe</svmain>
+            <svsub>EEG perturbé résultat envoyé à Lille</svsub>
+            <sortiemain/>
+            <sortiesub>ECBU à faire ventre ballonne cette nuit selle le 26/08</sortiesub>
+            <misc>fauteuil + tablette
+barrieres x 2</misc>
+            <reaMain>1.5L</reaMain>
+            <reasub>[Protocole S/C SB]</reasub>
+            <peros>CP HP x2, Stimuler l'hydratation, Refus les traitements, ATTENTION FAUSSES DEGLUT: eau gel</peros>
+            <reaset>true</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="5P">
+            <nom>ME CAPELLE</nom>
+            <dateEntree>11/01/14</dateEntree>
+            <motif>PNP gche, decomp cardiaque globale, acidose meta</motif>
+            <atcd>HTA, DID (+retinopathie), Sd anxio-dep, hysterectomie, PTH gche</atcd>
+            <exams>Deux hémocs ftes (STOP), SdB</exams>
+            <issv>false</issv>
+            <svtype>0</svtype>
+            <svmain>O2 2L </svmain>
+            <svsub>Soins oculaires au sérum phy</svsub>
+            <sortiemain>Sortie</sortiemain>
+            <sortiesub/>
+            <misc>T°/poste
+Cstes/poste 
+
+BdC
+GSSCx3 
+fauteuil</misc>
+            <reaMain/>
+            <reasub>augmentin 2g*3/j</reasub>
+            <peros>Régime SSAR
+succession hypo/hyper : changement protocole insuline</peros>
+            <reaset>true</reaset>
+            <o2check>true</o2check>
+            <oxydeb>2</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="5F">
+            <nom>ME BONTE</nom>
+            <dateEntree>25/01/14</dateEntree>
+            <motif>Anémie à 8,8 (transfusée)</motif>
+            <atcd>Alz, 
+IDM (pontage coro),
+ inf urinaire a repet',
+ neo sein dt (lymphoedeme)</atcd>
+            <exams>ETT le 27/8 a 14h -  IRM pelvienne le 28/8 (à jeun 8h) poser VVP</exams>
+            <issv>false</issv>
+            <svtype>0</svtype>
+            <svmain/>
+            <svsub/>
+            <sortiemain>Sortie</sortiemain>
+            <sortiesub/>
+            <misc>Fauteuil
+déambule +++</misc>
+            <reaMain/>
+            <reasub/>
+            <peros/>
+            <reaset>false</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="6">
+            <nom>MR DEQUEKER</nom>
+            <dateEntree>20/01/14</dateEntree>
+            <motif>Anemie (1CG le 23/08), trbles transit (diarrhees+consti), AEG,denut, hypok+ INFARCTUS tropo+</motif>
+            <atcd>hta, hypercholest, alz, sd occlusif</atcd>
+            <exams>cp hp x2 regime haché 2</exams>
+            <issv>true</issv>
+            <svtype>1</svtype>
+            <svmain>SV à demeure a demeure</svmain>
+            <svsub>s connues, lavements si besoin</svsub>
+            <sortiemain>Sortie</sortiemain>
+            <sortiesub>26/8 annulée</sortiesub>
+            <misc>Isolement clostri
+préventif (selles liquides)
+
+contention
+
+LIT STRICT</misc>
+            <reaMain/>
+            <reasub>SAP heparine VIT 4ml/h
+UN CONTROLE TCA/Jour</reasub>
+            <peros>cs anest pour colo 28/8 15h</peros>
+            <reaset>true</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="7P">
+            <nom>MR DEULLIN</nom>
+            <dateEntree>22/01/14</dateEntree>
+            <motif>tb comportement, choc, meta osseuse, pyelo</motif>
+            <atcd>insuf respi, emphyseme, pleuresie dte, neo prostate</atcd>
+            <exams/>
+            <issv>false</issv>
+            <svtype>0</svtype>
+            <svmain/>
+            <svsub>inotiol siege et bourses/nuit</svsub>
+            <sortiemain>Sortie:</sortiemain>
+            <sortiesub>mardi 27/08 à 11h linselles MDR ok + coag à 6h</sortiesub>
+            <misc>soins médicaux
+Fauteuil</misc>
+            <reaMain/>
+            <reasub/>
+            <peros/>
+            <reaset>false</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+        <chambre id="7F">
+            <nom>MR VANDENHEEDE</nom>
+            <dateEntree>28/01/14</dateEntree>
+            <motif>Chute, rhabdo, inf urinaire</motif>
+            <atcd>Sclérose latérale, démence frontale, DNID(protocole novo), AOMI, HTA, Rétinopathie, stent</atcd>
+            <exams>Kiné marche/tb marche</exams>
+            <issv>false</issv>
+            <svtype>0</svtype>
+            <svmain/>
+            <svsub/>
+            <sortiemain>Sortie</sortiemain>
+            <sortiesub>Mardi 27/8 à 11h Malatray 2, OK</sortiesub>
+            <misc>Fauteuil
+
+2 barrieres
+
+GSSC X3</misc>
+            <reaMain/>
+            <reasub/>
+            <peros>ATB,   Metformine</peros>
+            <reaset>false</reaset>
+            <o2check>false</o2check>
+            <oxydeb>0</oxydeb>
+            <aerosols>false</aerosols>
+            <allergiesCheck>false</allergiesCheck>
+            <allergies/>
+        </chambre>
+    </secteur>
+</Transmissions>

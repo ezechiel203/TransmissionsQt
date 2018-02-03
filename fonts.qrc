@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/ressources/fonts">
+        <file>fonts/dejavusansmono_bold/DejaVuSansMono-Bold-webfont.ttf</file>
+        <file>fonts/dejavusansmono_boldoblique/DejaVuSansMono-BoldOblique-webfont.ttf</file>
+        <file>fonts/dejavusansmono_book/DejaVuSansMono-webfont.ttf</file>
+        <file>fonts/dejavusansmono_oblique/DejaVuSansMono-Oblique-webfont.ttf</file>
+    </qresource>
+</RCC>
