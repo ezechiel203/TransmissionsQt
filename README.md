@@ -12,10 +12,10 @@ Originally developped in Java + Swing (2012-2013), ported to Qt & C++ in early 2
 ### Use
 Simply run the .exe 
 * **TransmissionsQt** first displays a splashscreen on which a QListView enables you to select the sector (Ward, Hallway, Unit, or however you may want to call a collection of hospital beds)
-* Main window (TransMain object) is then displayed. 
+* Main window (**TransMain object**) is then displayed. 
     * On top, you can see a menu bar you may want to configure. You can either mod this via QTCreator GUI-editor editing transmain.ui, or do it programmatically inside transmain.cpp
     * Below the menu bar, you can see a function bar filled with Icons representing various actions (such as saving XML data to file, printing to default printer, selecting the subset of beds you want to print, or switch patients between beds...). Access to this Function bar is possible within transmain.cpp. You can add, modify or delete some of the actions and replace them by your own customised ones.
-    * The main frame of the window represent a QTabWidget in which is displayed a form representing a patient in its bed. Various items are available for edition. This form is an instance of the ChambrePanel.cpp class. You want to edit this file as to edit the form itself. Many of the widgets in it are subclasses of original QtWidgets (in order for example to make the object intelligent enough to check the length of the thext that was imput and react accordingly)
+    * The main frame of the window represent a **QTabWidget** (in fact a subclass of QTabWidget customised for my needs) in which is displayed a form representing a patient in its bed. Various items are available for edition. This form is an instance of the **ChambrePanel**.cpp class. You want to edit this file as to edit the form itself. Many of the widgets in it are subclasses of original QtWidgets (in order for example to make the object intelligent enough to check for the length of text that was input and react accordingly)
         * Patient name, obviously
         * Date of arrival
         * Several checkboxes indicating current status (oxygen, allergies...)
@@ -26,6 +26,7 @@ Simply run the .exe
     * print on a custom printer
     * print custom subset of patients
     * preview what will be printed
+    * more...
 
 ### Reuse
 Feel free to use and reuse this piece of software as-is or modify it to suit your needs.
